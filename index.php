@@ -3,7 +3,7 @@
 <body>
  
 <?php
-echo "My first PHP script!";
+echo "RCB - 2024 Champions";
 ?>
 
 </body>
